@@ -1,4 +1,4 @@
-For part C, I implemented the chain of responsibility design pattern. I used refactoringguru.com's guide on chain of responsibility to set up the system, and then had help with general class heirarchy design from you, Dr. Hartman. There are four "groups" of files:
+For part C, I implemented the chain of responsibility design pattern. I used refactoringguru.com's guide on chain of responsibility to set up the system, and then had help with general class hierarchy design from you, Dr. Hartman. There are four "groups" of files:
 
 1) the service object
 Riders.cpp and Riders.hpp serve as the service that will be passed through the chain of responsibility. The class itself is just a fancy struct, storing some simple data with some processing.
