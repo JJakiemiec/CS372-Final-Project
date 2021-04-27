@@ -24,7 +24,7 @@ int main() {
 	//set up riders
 	Riders tooYoung(2, 5, 40);
 	Riders tooTall(2, 20, 80);
-	Riders tooMany(4, 20, 80);
+	Riders tooMany(6, 20, 40);
 	Riders canRide(2, 20, 40);
 	Riders perfect(4, 20, 40);
 
